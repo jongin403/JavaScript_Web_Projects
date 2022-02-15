@@ -1,5 +1,8 @@
 # JavaScript_Web_Projects
- JavaScript Web Projects: 20 Projects to Build Your Portfolio
+ 
+ 
+ ![](https://images.velog.io/images/jongin403/post/0dc36f18-3c8f-42d9-bb2b-ae9fafbe67ce/udemy_logo.png)
 
+유데미 강의 중 [20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) 를 듣고 결과물을 볼 수 있게 만듭니다.
 
-https://jongin403.github.io/JavaScript_Web_Projects/--%20template/
+0. [템플릿](https://jongin403.github.io/JavaScript_Web_Projects/--%20template/)
