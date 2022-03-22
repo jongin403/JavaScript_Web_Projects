@@ -5,7 +5,6 @@
 
 유데미 강의 중 [20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) 를 듣고 결과물을 볼 수 있게 만듭니다.
 
-0. [템플릿](https://jongin403.github.io/JavaScript_Web_Projects/--%20template/)
 1. [명언 생성기](https://jongin403.github.io/JavaScript_Web_Projects/quote-generator)
 
 <details>
@@ -77,4 +76,26 @@ PIP 로 영상을 띄울 수 있는 페이지 입니다.
 영상을 여러 번 선택할 수 있도록 수정 예정입니다.
   
 </details>
+
+4. [농담 로봇](https://jongin403.github.io/JavaScript_Web_Projects/joke-teller)
+
+<details>
+<summary>상세보기</summary>
+
+### 개요
+개발관 관련된 무작위의 농담을 음성으로 들려줍니다.
+
+### 핵심 구현 로직
+#### 농담 가져오기
+joke api 를 사용합니다.
+
+#### 음성으로 출력하기
+텍스트를 음성으로 변환하는 라이브러리를 사용합니다.
+
+### 개선 예정 사항
+#### 국가별 버전
+사용자의 국가를 인식하여 각 국가별 버전을 만들 예정입니다.
+  
+</details>
+
 
