@@ -87,10 +87,6 @@ a:focus {
 
 /* About Section */
 .about-container {
-  border: solid;
-  border-width: thin;
-  border-color: green;
-  border-radius: 10px;
   display: flex;
 }
 
